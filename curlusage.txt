@@ -1,0 +1,11 @@
+curl -L ftp://user:pwd@server:port/path/to/files/ > files.txt
+
+cat files.txt | grep -o '[^ ]*$' | grep foo > get.txt
+
+while read line; do
+curl -O ftp://user:pwd@server:port/path/to/files/$line;
+done < get.txt
+
+while read line; do
+curl -u user:pwd "ftp://server:port/" -X "DELE path/to/files/${line}";
+done < get.txt
