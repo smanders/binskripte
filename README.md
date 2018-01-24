@@ -1,0 +1,2 @@
+# binskripte
+~/bin scripts
