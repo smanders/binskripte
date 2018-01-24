@@ -1,0 +1,4 @@
+#!/bin/bash
+( zcat $( ls -tr /var/log/apt/history.log*.gz ) ; cat /var/log/apt/history.log ) | egrep '^(Start-Date:|Commandline:)' | grep -v aptdaemon | egrep '^Commandline:'
+#zgrep -hE '^(Start-Date:|Commandline:)' $(ls -tr /var/log/apt/history.log*.gz) | egrep -v 'aptdaemon|upgrade' | egrep -B1 '^Commandline:'
+#zgrep -hE '^(Start-Date:|Commandline:)' $(ls -tr /var/log/apt/history.log) | egrep -v 'aptdaemon|upgrade' | egrep -B1 '^Commandline:'

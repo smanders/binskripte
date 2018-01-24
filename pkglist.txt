@@ -1,0 +1,30 @@
+apt install vim
+apt install git
+apt install gcc-4.9 g++-4.9
+apt install clang
+apt install libc++-dev
+apt install libgtk2.0-dev
+apt install libglu1-mesa-dev
+apt install cppcheck
+apt install unixodbc-dev
+apt install python-dev
+apt install gitg
+apt install cscope
+apt install graphviz
+apt install libncurses5-dev
+apt install openssh-server
+apt install screen
+apt install cgdb
+apt install ninja-build
+apt install libpam-google-authenticator
+apt install ntpdate
+apt install libgtk-3-dev
+apt install freerdp
+apt install rpm
+apt install gcc-6 g++-6
+apt install git-lfs
+apt install aptitude
+apt install docker.io
+apt install atomicparsley
+apt install gcc-7 g++-7
+apt install miktex
