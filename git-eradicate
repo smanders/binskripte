@@ -1,0 +1,8 @@
+#!/bin/sh
+git filter-branch -f  --index-filter \
+    'git rm --force --cached --ignore-unmatch cipFacadeEric.bundle' \
+     -- --all
+rm -Rf .git/refs/original && \
+    git reflog expire --expire=now --all && \
+    git gc --aggressive && \
+    git prune
