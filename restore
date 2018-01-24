@@ -1,0 +1,21 @@
+#!/bin/bash
+pushd /media/onetb/syncup > /dev/null
+# http://www.thegeekstuff/2010/09/rsync-command-examples/
+# rsync options source destination
+# -a : archive (recursive, preserves: symbolic links, permissions, timestamps, owner and group)
+# -z : enable compression
+# -v : verbose
+rsync -azv bin ~smanders/
+rsync -azv Desktop ~smanders/
+rsync -azv Documents ~smanders/
+rsync -azv Downloads ~smanders/
+rsync -azv Music ~smanders/
+rsync -azv Pictures ~smanders/
+rsync -azv Public ~smanders/
+rsync -azv src ~smanders/
+rsync -azv Templates ~smanders/
+rsync -azv Videos ~smanders/
+rsync -azv .gitconfig ~smanders/
+rsync -azv .mozilla ~smanders/
+rsync -azv .ssh ~smanders/
+popd > /dev/null

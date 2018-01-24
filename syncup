@@ -1,0 +1,22 @@
+#!/bin/bash
+pushd ~smanders > /dev/null
+# http://www.thegeekstuff/2010/09/rsync-command-examples/
+# rsync options source destination
+# -a : archive (recursive, preserves: symbolic links, permissions, timestamps, owner and group)
+# -z : enable compression
+# -v : verbose
+# --delete : remove file at destination if dne at source
+rsync -azv --delete bin /media/onetb/syncup/
+rsync -azv --delete Desktop /media/onetb/syncup/
+rsync -azv --delete Documents /media/onetb/syncup/
+rsync -azv --delete Downloads /media/onetb/syncup/
+rsync -azv --delete Music /media/onetb/syncup/
+rsync -azv --delete Pictures /media/onetb/syncup/
+rsync -azv --delete Public /media/onetb/syncup/
+rsync -azv --delete --exclude '_bld*/' src /media/onetb/syncup/
+rsync -azv --delete Templates /media/onetb/syncup/
+rsync -azv --delete Videos /media/onetb/syncup/
+rsync -azv --delete .gitconfig /media/onetb/syncup/
+rsync -azv --delete .mozilla /media/onetb/syncup/
+rsync -azv --delete .ssh /media/onetb/syncup/
+popd > /dev/null
