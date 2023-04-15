@@ -1,0 +1,31 @@
+ORG="https://isrhub.usurf.usu.edu/VantagePlugins"
+REPOS="
+  ChangeDetectionPlugin
+  CivaErrorReportTool
+  CorelliaPlugin
+  CountryCodesPlugin
+  CountryCodesServer
+  DFCPlugin
+  FSGIPlugin
+  HexDumpPlugin
+  ImageChangeTool
+  ImageQualityTool
+  KaminoPlugin
+  KraytPlugin
+  LinMSP
+  LinPIPlugin
+  MPIQPlugin
+  NIIRSPlugin
+  NitfFtitlePlugin
+  PluginLibraries
+  RMosaicPlugin
+  RNIIRSPlugin
+  SARConditioningPlugin
+  SARImageFormationPlugin
+  SARPyValidator
+  SICDPlugin
+  TroubleshootingPlugin
+  VideoUtilityPlugin
+  WinMSP
+  "
+SRCDIR=~/src/plugins
