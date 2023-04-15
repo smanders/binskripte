@@ -1,0 +1,21 @@
+ORG="https://isrhub.usurf.usu.edu/IsrhubActions"
+REPOS="
+  Build
+  CommitCheck
+  DocGeneration
+  FortifyScan
+  GetKeys
+  IsrhubUtils
+  LockStep
+  Maintenance
+  MergeCode
+  MergeCodeTestCM
+  PublishRC
+  RollVersion
+  RunSPATT
+  SharedWorkflows
+  TicketCheck
+  UnitTests
+  UploadContainer
+  "
+SRCDIR=~/src/isrhubactions
