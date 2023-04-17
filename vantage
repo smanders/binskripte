@@ -1,0 +1,26 @@
+ORG="https://isrhub.usurf.usu.edu/Vantage"
+REPOS="
+  CommonLibraries
+  ConfigStore
+  DDEJobStore
+  DetectionStore
+  FileStore
+  Gateway
+  ImageViewService
+  ImageViewer
+  LogStore
+  MissionPlanStore
+  PPE
+  PPEScheduler
+  PlanStore
+  PluginStore
+  SPE
+  STV
+  SensorManager
+  TemplateMicroservice
+  UserService
+  VIVID
+  VLite
+  vantBroker
+  "
+SRCDIR=~/src/vantage
