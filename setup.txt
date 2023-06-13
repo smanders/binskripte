@@ -1,0 +1,9 @@
+add to .bashrc, after alias egrep
+alias grepsrc='grep --color=auto --exclude-dir=.git --exclude-dir=_bld* -r'
+
+.Xauthority does not exist
+https://www.itechlounge.net/2023/02/linux-ssh-x11-forwarding-xauth-xauthority-does-not-exist/
+touch ~/.Xauthority
+chown user:group ~/.Xauthority
+
+sudo ln -s /run/motd.dynamic /etc/motd
