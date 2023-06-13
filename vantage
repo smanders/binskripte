@@ -1,7 +1,10 @@
 ORG="https://isrhub.usurf.usu.edu/Vantage"
 REPOS="
+  AirComm
+  AirCommScheduler
   CommonLibraries
   ConfigStore
+  DDEExecutor
   DDEJobStore
   DetectionStore
   FileStore
@@ -19,6 +22,7 @@ REPOS="
   SensorManager
   TemplateMicroservice
   UserService
+  VantageSuper
   VIVID
   VLite
   vantBroker
