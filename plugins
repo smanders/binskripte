@@ -24,6 +24,7 @@ REPOS="
   SARImageFormationPlugin
   SARPyValidator
   SICDPlugin
+  TemplatePlugin
   TroubleshootingPlugin
   VideoUtilityPlugin
   WinMSP
