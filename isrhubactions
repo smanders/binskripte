@@ -13,6 +13,7 @@ REPOS="
   PublishRC
   RollVersion
   RunSPATT
+  SecureScripts
   SharedWorkflows
   TicketCheck
   UnitTests
