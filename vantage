@@ -13,6 +13,7 @@ REPOS="
   ImageViewer
   LogStore
   MissionPlanStore
+  NitfProductStore
   PPE
   PPEScheduler
   PlanStore
