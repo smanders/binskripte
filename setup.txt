@@ -7,3 +7,6 @@ touch ~/.Xauthority
 chown user:group ~/.Xauthority
 
 sudo ln -s /run/motd.dynamic /etc/motd
+
+https://github.com/smanders/cobwebnfo/blob/master/containers.md
+copy ~/.docker/config.json with ghcr.io authentication
