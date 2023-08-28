@@ -14,6 +14,7 @@ REPOS="
   LogStore
   MissionPlanStore
   NitfProductStore
+  OverviewMonitor
   PPE
   PPEScheduler
   PlanStore
