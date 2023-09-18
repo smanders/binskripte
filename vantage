@@ -6,12 +6,14 @@ REPOS="
   ConfigStore
   DDEExecutor
   DDEJobStore
+  DDEMonitor
   DetectionStore
   FileStore
   Gateway
   ImageViewService
   ImageViewer
   LogStore
+  ManualReviewService
   MissionPlanStore
   NitfProductStore
   OverviewMonitor
