@@ -1,9 +1,9 @@
 ORG="https://isrhub.usurf.usu.edu/SWAT"
 REPOS="
+  AirCommData
   SPITT
   SWATFramework
   SwatAgent
   VIP-C_SWAT
-  vantBrokerBreaker
   "
 SRCDIR=~/src/swat
