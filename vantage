@@ -21,6 +21,7 @@ REPOS="
   PPEScheduler
   PlanStore
   PluginStore
+  ProductPlanScheduler
   SPE
   STV
   SensorManager
