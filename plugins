@@ -8,7 +8,6 @@ REPOS="
   CountryCodesServer
   DFCPlugin
   FSGIPlugin
-  HexDumpPlugin
   ImageChangeTool
   ImageQualityTool
   KaminoPlugin
@@ -17,17 +16,14 @@ REPOS="
   LinPIPlugin
   MPIQPlugin
   NIIRSPlugin
-  NitfFtitlePlugin
   PluginLibraries
   RMosaicPlugin
   RNIIRSPlugin
   SARConditioningPlugin
-  SARImageFormationPlugin
   SARPyValidator
   SICDPlugin
   TemplatePlugin
   TroubleshootingPlugin
-  VideoUtilityPlugin
   WinMSP
   "
 SRCDIR=~/src/plugins
