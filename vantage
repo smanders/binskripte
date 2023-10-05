@@ -18,7 +18,6 @@ REPOS="
   NitfProductStore
   OverviewMonitor
   PPE
-  PPEScheduler
   PlanStore
   PluginStore
   ProductPlanScheduler
