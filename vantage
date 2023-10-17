@@ -18,9 +18,9 @@ REPOS="
   MtiViewer
   NitfProductStore
   OverviewMonitor
-  PPE
   PlanStore
   PluginStore
+  ProductPlanExecutor
   ProductPlanScheduler
   RdtpGui
   SPE
