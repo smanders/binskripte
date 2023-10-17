@@ -15,12 +15,14 @@ REPOS="
   LogStore
   ManualReviewService
   MissionPlanStore
+  MtiViewer
   NitfProductStore
   OverviewMonitor
   PPE
   PlanStore
   PluginStore
   ProductPlanScheduler
+  RdtpGui
   SPE
   STV
   SensorManager
