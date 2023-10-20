@@ -22,7 +22,7 @@ REPOS="
   PluginStore
   ProductPlanExecutor
   ProductPlanScheduler
-  RdtpGui
+  RdtpSender
   SPE
   STV
   SensorManager
