@@ -9,12 +9,14 @@ REPOS="
   DDEMonitor
   DetectionStore
   FileStore
+  FlowSimulator
   Gateway
   ImageViewService
   ImageViewer
   LogStore
   ManualReviewService
   MissionPlanStore
+  MtiStore
   MtiViewer
   NitfProductStore
   OverviewMonitor
