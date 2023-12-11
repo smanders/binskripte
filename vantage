@@ -28,6 +28,7 @@ REPOS="
   SPE
   STV
   SensorManager
+  StatusService
   StreamPlanScheduler
   TemplateMicroservice
   UserService
