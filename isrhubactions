@@ -12,7 +12,7 @@ REPOS="
   MergeCodeTestCM
   PublishRC
   RollVersion
-  RunSPATT
+  RunPluginValidation
   SecureScripts
   SharedWorkflows
   TicketCheck
