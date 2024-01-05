@@ -25,10 +25,10 @@ REPOS="
   ProductPlanExecutor
   ProductPlanScheduler
   RdtpSender
-  SPE
   STV
   SensorManager
   StatusService
+  StreamPlanExecutor
   StreamPlanScheduler
   TemplateMicroservice
   UserService
