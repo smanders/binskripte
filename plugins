@@ -17,6 +17,7 @@ REPOS="
   LinPIPlugin
   MPIQPlugin
   NIIRSPlugin
+  NitfCodecPlugin
   PluginLibraries
   RMosaicPlugin
   RNIIRSPlugin
