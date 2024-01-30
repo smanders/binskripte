@@ -3,11 +3,13 @@ REPOS="
   AirComm
   AirCommScheduler
   CommonLibraries
+  Compendium
   ConfigStore
   DDEExecutor
   DDEJobStore
   DDEMonitor
   DetectionStore
+  EmulatorService
   FileStore
   FlowSimulator
   Gateway
