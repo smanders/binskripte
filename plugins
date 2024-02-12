@@ -18,6 +18,7 @@ REPOS="
   MPIQPlugin
   NIIRSPlugin
   NitfCodecPlugin
+  NitfUtilityPlugin
   PluginCiData
   PluginLibraries
   RMosaicPlugin
