@@ -13,6 +13,7 @@ REPOS="
   FileStore
   FlowSimulator
   Gateway
+  GlobalHawkLinkSource
   ImageViewService
   ImageViewer
   LogStore
