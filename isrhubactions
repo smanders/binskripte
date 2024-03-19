@@ -6,6 +6,7 @@ REPOS="
   FortifyScan
   GetKeys
   IsrhubUtils
+  JobPrep
   LockStep
   Maintenance
   MergeCode
@@ -18,5 +19,6 @@ REPOS="
   TicketCheck
   UnitTests
   UploadContainer
+  VantageCI
   "
 SRCDIR=~/src/isrhubactions
