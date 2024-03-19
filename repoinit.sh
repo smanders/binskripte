@@ -1,8 +1,8 @@
 #!/bin/bash
 cd "$( dirname "$0" )"
 source $1
-if [[ -z $ORG || -z $REPOS || -z $SRCDIR ]]; then
-  echo "$1 must define ORG REPOS SRCDIR"
+if [[ -z $REPOS || -z $SRCDIR ]]; then
+  echo "$1 must define REPOS SRCDIR"
   exit
 fi
 if [ ! -d "$SRCDIR" ]; then
@@ -11,11 +11,12 @@ fi
 pushd $SRCDIR >/dev/null
 for repo in $REPOS
 do
-  if [ ! -d "${repo}" ]
+  dir=`echo ${repo} | rev | cut -d/ -f1 | rev`
+  if [ ! -d "${dir}" ]
   then
     echo ==== ${repo} ====
-    git clone ${ORG}/${repo}
-    pushd ${repo} >/dev/null
+    git clone ${repo}
+    pushd ${dir} >/dev/null
     branch=$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')
     if [ "${branch}" != "development" ]; then
       git checkout -b development origin/development
