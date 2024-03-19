@@ -1,9 +1,9 @@
 ORG="https://isrhub.usurf.usu.edu/SWAT"
 REPOS="
-  AirCommData
-  SPITT
-  SWATFramework
-  SwatAgent
-  VIP-C_SWAT
+  ${ORG}/AirCommData
+  ${ORG}/SPITT
+  ${ORG}/SWATFramework
+  ${ORG}/SwatAgent
+  ${ORG}/VIP-C_SWAT
   "
 SRCDIR=~/src/swat
