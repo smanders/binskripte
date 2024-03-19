@@ -1,24 +1,24 @@
 ORG="https://isrhub.usurf.usu.edu/IsrhubActions"
 REPOS="
-  Build
-  CommitCheck
-  DocGeneration
-  FortifyScan
-  GetKeys
-  IsrhubUtils
-  JobPrep
-  LockStep
-  Maintenance
-  MergeCode
-  MergeCodeTestCM
-  PublishRC
-  RollVersion
-  RunPluginValidation
-  SecureScripts
-  SharedWorkflows
-  TicketCheck
-  UnitTests
-  UploadContainer
-  VantageCI
+  ${ORG}/Build
+  ${ORG}/CommitCheck
+  ${ORG}/DocGeneration
+  ${ORG}/FortifyScan
+  ${ORG}/GetKeys
+  ${ORG}/IsrhubUtils
+  ${ORG}/JobPrep
+  ${ORG}/LockStep
+  ${ORG}/Maintenance
+  ${ORG}/MergeCode
+  ${ORG}/MergeCodeTestCM
+  ${ORG}/PublishRC
+  ${ORG}/RollVersion
+  ${ORG}/RunPluginValidation
+  ${ORG}/SecureScripts
+  ${ORG}/SharedWorkflows
+  ${ORG}/TicketCheck
+  ${ORG}/UnitTests
+  ${ORG}/UploadContainer
+  ${ORG}/VantageCI
   "
 SRCDIR=~/src/isrhubactions
