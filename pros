@@ -1,0 +1,19 @@
+ISRHUB="https://isrhub.usurf.usu.edu"
+GITHUB="https://github.com"
+REPOS="
+  ${ISRHUB}/CRTool/CRTool
+  ${ISRHUB}/CRTool/CRToolImpl
+  ${ISRHUB}/internpro/Cmdr
+  ${GITHUB}/smanders/Dockerfile.vim
+  ${ISRHUB}/internpro/RDTP
+  ${GITHUB}/externpro/buildpro
+  ${GITHUB}/smanders/centrifybomb
+  ${GITHUB}/smanders/externpro
+  ${ISRHUB}/internpro/internpro
+  ${ISRHUB}/palam/palam
+  ${ISRHUB}/webpro/webpro
+  ${GITHUB}/smanders/wxTetris
+  ${ISRHUB}/internpro/xpfftw
+  ${GITHUB}/externpro/xppatch
+  "
+SRCDIR=~/src/pros
