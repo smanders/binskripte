@@ -4,6 +4,7 @@ REPOS="
   ${ISRHUB}/CRTool/CRTool
   ${ISRHUB}/CRTool/CRToolImpl
   ${ISRHUB}/internpro/Cmdr
+  ${ISRHUB}/internpro/CriticalIO
   ${GITHUB}/smanders/Dockerfile.vim
   ${ISRHUB}/internpro/RDTP
   ${GITHUB}/externpro/buildpro
