@@ -19,7 +19,7 @@ do
     pushd ${dir} >/dev/null
     branch=$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')
     if [ "${branch}" != "development" ]; then
-      git checkout -b development origin/development
+      git ls-remote --exit-code --heads origin refs/heads/development >/dev/null && git checkout -b development origin/development
     fi
     if [ -f ".gitmodules" ]; then
       git submodule init
