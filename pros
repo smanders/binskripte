@@ -6,11 +6,13 @@ REPOS="
   ${ISRHUB}/internpro/Cmdr
   ${ISRHUB}/internpro/CriticalIO
   ${GITHUB}/smanders/Dockerfile.vim
+  ${ISRHUB}/internpro/gsoap
   ${ISRHUB}/internpro/RDTP
   ${GITHUB}/externpro/buildpro
   ${GITHUB}/smanders/centrifybomb
   ${GITHUB}/smanders/externpro
   ${ISRHUB}/internpro/internpro
+  ${ISRHUB}/internpro/kakadu
   ${ISRHUB}/palam/palam
   ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
