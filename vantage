@@ -1,5 +1,6 @@
 ORG="https://isrhub.usurf.usu.edu/Vantage"
 REPOS="
+  ${ORG}/ActionService
   ${ORG}/AirComm
   ${ORG}/AirCommScheduler
   ${ORG}/CommonLibraries
@@ -25,6 +26,7 @@ REPOS="
   ${ORG}/NitfProductStore
   ${ORG}/OverviewMonitor
   ${ORG}/PlanStore
+  ${ORG}/PluginSdk
   ${ORG}/PluginStore
   ${ORG}/ProductPlanExecutor
   ${ORG}/ProductPlanScheduler
