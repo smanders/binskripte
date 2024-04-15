@@ -15,6 +15,7 @@ REPOS="
   ${ISRHUB}/internpro/kakadu
   ${ISRHUB}/internpro/NG_GDP
   ${ISRHUB}/palam/palam
+  ${ISRHUB}/internpro/Sdvideo
   ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
   ${ISRHUB}/internpro/xpfftw
