@@ -11,6 +11,7 @@ REPOS="
   ${GITHUB}/externpro/buildpro
   ${GITHUB}/smanders/centrifybomb
   ${GITHUB}/smanders/externpro
+  ${ISRHUB}/internpro/fftw
   ${ISRHUB}/internpro/internpro
   ${ISRHUB}/internpro/kakadu
   ${ISRHUB}/internpro/NG_GDP
@@ -18,7 +19,6 @@ REPOS="
   ${ISRHUB}/internpro/Sdvideo
   ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
-  ${ISRHUB}/internpro/xpfftw
   ${GITHUB}/externpro/xppatch
   "
 SRCDIR=~/src/pros
