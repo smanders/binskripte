@@ -5,6 +5,7 @@ REPOS="
   ${ISRHUB}/CRTool/CRToolImpl
   ${ISRHUB}/internpro/Cmdr
   ${ISRHUB}/internpro/CriticalIO
+  ${ISRHUB}/DDE/dde_lib
   ${GITHUB}/smanders/Dockerfile.vim
   ${ISRHUB}/internpro/gsoap
   ${ISRHUB}/internpro/RDTP
