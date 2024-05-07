@@ -6,6 +6,7 @@ REPOS="
   ${ORG}/CommonLibraries
   ${ORG}/Compendium
   ${ORG}/ConfigStore
+  ${ORG}/CorrelationService
   ${ORG}/DDEExecutor
   ${ORG}/DDEJobStore
   ${ORG}/DDEMonitor
