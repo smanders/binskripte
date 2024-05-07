@@ -20,6 +20,7 @@ REPOS="
   ${ISRHUB}/internpro/Sdvideo
   ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
+  ${GITHUB}/externpro/wxx
   ${GITHUB}/externpro/xppatch
   "
 SRCDIR=~/src/pros
