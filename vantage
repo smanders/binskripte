@@ -5,7 +5,7 @@ REPOS="
   ${ORG}/AirCommScheduler
   ${ORG}/CommonLibraries
   ${ORG}/Compendium
-  ${ORG}/ConfigStore
+  ${ORG}/ConfigurationService
   ${ORG}/CorrelationService
   ${ORG}/DDEExecutor
   ${ORG}/DDEJobStore
