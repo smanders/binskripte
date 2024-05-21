@@ -25,6 +25,7 @@ REPOS="
   ${ORG}/MtiStore
   ${ORG}/MtiViewer
   ${ORG}/NitfProductStore
+  ${ORG}/NitfStore
   ${ORG}/OverviewMonitor
   ${ORG}/PlanStore
   ${ORG}/PluginSdk
