@@ -7,6 +7,7 @@ REPOS="
   ${ORG}/Compendium
   ${ORG}/ConfigurationService
   ${ORG}/CorrelationService
+  ${ORG}/DatasourceScheduler
   ${ORG}/DDEExecutor
   ${ORG}/DDEJobStore
   ${ORG}/DDEMonitor
@@ -14,7 +15,9 @@ REPOS="
   ${ORG}/DirectorySource
   ${ORG}/EmulatorService
   ${ORG}/FileStore
+  ${ORG}/FlowExecutor
   ${ORG}/FlowSimulator
+  ${ORG}/FlowStore
   ${ORG}/Gateway
   ${ORG}/GlobalHawkLinkSource
   ${ORG}/ImageViewService
