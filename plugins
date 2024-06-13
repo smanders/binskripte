@@ -23,7 +23,7 @@ REPOS="
   ${ORG}/PluginLibraries
   ${ORG}/RMosaicPlugin
   ${ORG}/RNIIRSPlugin
-  ${ORG}/SARConditioningPlugin
+  ${ORG}/SarConditioningPlugin
   ${ORG}/SARPyValidator
   ${ORG}/SICDPlugin
   ${ORG}/TemplatePlugin
