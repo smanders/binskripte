@@ -8,9 +8,9 @@ REPOS="
   ${ORG}/ConfigurationService
   ${ORG}/CorrelationService
   ${ORG}/DatasourceScheduler
-  ${ORG}/DDEExecutor
-  ${ORG}/DDEJobStore
-  ${ORG}/DDEMonitor
+  ${ORG}/DdeExecutor
+  ${ORG}/DdeJobStore
+  ${ORG}/DdeMonitor
   ${ORG}/DetectionStore
   ${ORG}/DirectorySource
   ${ORG}/EmulatorService
