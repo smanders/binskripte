@@ -15,7 +15,7 @@ REPOS="
   ${ORG}/KraytPlugin
   ${ORG}/LinMSP
   ${ORG}/LinPiPlugin
-  ${ORG}/MPIQPlugin
+  ${ORG}/MpiqPlugin
   ${ORG}/NIIRSPlugin
   ${ORG}/NitfCodecPlugin
   ${ORG}/NitfUtilityPlugin
