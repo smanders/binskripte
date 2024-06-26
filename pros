@@ -17,10 +17,10 @@ REPOS="
   ${ISRHUB}/internpro/kakadu
   ${ISRHUB}/internpro/NG_GDP
   ${ISRHUB}/palam/palam
+  ${GITHUB}/externpro/patch
   ${ISRHUB}/internpro/Sdvideo
   ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
   ${GITHUB}/externpro/wxx
-  ${GITHUB}/externpro/xppatch
   "
 SRCDIR=~/src/pros
