@@ -18,6 +18,7 @@ REPOS="
   ${ISRHUB}/internpro/internpro
   ${ISRHUB}/internpro/kakadu
   ${GITHUB}/externpro/nasm
+  ${GITHUB}/externpro/node
   ${ISRHUB}/palam/palam
   ${GITHUB}/externpro/patch
   ${ISRHUB}/webpro/webpro
