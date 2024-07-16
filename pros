@@ -17,6 +17,7 @@ REPOS="
   ${ISRHUB}/internpro/gsoap
   ${ISRHUB}/internpro/internpro
   ${ISRHUB}/internpro/kakadu
+  ${GITHUB}/externpro/libspatialite
   ${GITHUB}/externpro/nasm
   ${GITHUB}/externpro/node
   ${ISRHUB}/palam/palam
