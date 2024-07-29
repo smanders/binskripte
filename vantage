@@ -20,6 +20,7 @@ REPOS="
   ${ORG}/FlowStore
   ${ORG}/Gateway
   ${ORG}/GlobalHawkLinkSource
+  ${ORG}/ImageViewScheduler
   ${ORG}/ImageViewService
   ${ORG}/ImageViewer
   ${ORG}/LogStore
