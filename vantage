@@ -16,6 +16,7 @@ REPOS="
   ${ORG}/EmulatorService
   ${ORG}/FileStore
   ${ORG}/FlowExecutor
+  ${ORG}/FlowMonitor
   ${ORG}/FlowSimulator
   ${ORG}/FlowStore
   ${ORG}/Gateway
@@ -36,6 +37,7 @@ REPOS="
   ${ORG}/PluginStore
   ${ORG}/ProductPlanExecutor
   ${ORG}/ProductPlanScheduler
+  ${ORG}/RegionStore
   ${ORG}/RdtpSender
   ${ORG}/STV
   ${ORG}/SensorManager
