@@ -11,6 +11,7 @@ REPOS="
   ${ORG}/DdeExecutor
   ${ORG}/DdeJobStore
   ${ORG}/DdeMonitor
+  ${ORG}/DdeScheduler
   ${ORG}/DetectionStore
   ${ORG}/DirectorySource
   ${ORG}/EmulatorService
@@ -27,6 +28,7 @@ REPOS="
   ${ORG}/LogStore
   ${ORG}/ManualReviewService
   ${ORG}/MissionPlanStore
+  ${ORG}/MtiSource
   ${ORG}/MtiStore
   ${ORG}/MtiViewer
   ${ORG}/NitfProductStore
