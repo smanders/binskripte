@@ -26,5 +26,6 @@ REPOS="
   ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
   ${GITHUB}/externpro/wxx
+  ${GITHUB}/externpro/zlib
   "
 SRCDIR=~/src/pros
