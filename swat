@@ -4,6 +4,7 @@ REPOS="
   ${ORG}/CorrelationServiceData
   ${ORG}/FileStoreData
   ${ORG}/PluginStoreData
+  ${ORG}/ProductPlanExecutorData
   ${ORG}/SensorManagerData
   ${ORG}/SPITT
   ${ORG}/SWATFramework
