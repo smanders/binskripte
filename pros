@@ -22,6 +22,7 @@ REPOS="
   ${GITHUB}/externpro/node
   ${ISRHUB}/palam/palam
   ${GITHUB}/externpro/patch
+  ${GITHUB}/externpro/spatialite-tools
   ${GITHUB}/externpro/SQLite3
   ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
