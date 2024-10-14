@@ -9,18 +9,21 @@ REPOS="
   ${ORG}/CountryCodesServer
   ${ORG}/DFCPlugin
   ${ORG}/FSGIPlugin
+  ${ORG}/HothPlugin
   ${ORG}/ImageChangeTool
   ${ORG}/ImageQualityTool
   ${ORG}/KaminoPlugin
   ${ORG}/KraytPlugin
   ${ORG}/LinMSP
   ${ORG}/LinPiPlugin
+  ${ORG}/MosaicPlugin
   ${ORG}/MpiqPlugin
   ${ORG}/NIIRSPlugin
   ${ORG}/NitfCodecPlugin
   ${ORG}/NitfUtilityPlugin
   ${ORG}/PluginCiData
   ${ORG}/PluginLibraries
+  ${ORG}/PraetorianPlugin
   ${ORG}/RMosaicPlugin
   ${ORG}/RNIIRSPlugin
   ${ORG}/SarConditioningPlugin
