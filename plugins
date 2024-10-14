@@ -23,6 +23,7 @@ REPOS="
   ${ORG}/NitfUtilityPlugin
   ${ORG}/PluginCiData
   ${ORG}/PluginLibraries
+  ${ORG}/PluginMicroserviceInterfaceTool
   ${ORG}/PraetorianPlugin
   ${ORG}/RMosaicPlugin
   ${ORG}/RNIIRSPlugin
@@ -30,6 +31,7 @@ REPOS="
   ${ORG}/SARPyValidator
   ${ORG}/SICDPlugin
   ${ORG}/SixLibCodeGenerator
+  ${ORG}/Spytt
   ${ORG}/TemplatePlugin
   ${ORG}/TroubleshootingPlugin
   ${ORG}/WinMSP
