@@ -25,6 +25,8 @@ REPOS="
   ${ORG}/ImageViewScheduler
   ${ORG}/ImageViewService
   ${ORG}/ImageViewer
+  ${ORG}/IntegrationSwatHcfOps
+  ${ORG}/IntegrationSwatLibraries
   ${ORG}/LogStore
   ${ORG}/ManualReviewService
   ${ORG}/MissionPlanStore
