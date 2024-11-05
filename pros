@@ -14,9 +14,11 @@ REPOS="
   ${ISRHUB}/DDE/dde_lib
   ${GITHUB}/smanders/externpro
   ${ISRHUB}/internpro/fftw
+  ${GITHUB}/externpro/geos
   ${ISRHUB}/internpro/gsoap
   ${ISRHUB}/internpro/internpro
   ${ISRHUB}/internpro/kakadu
+  ${GITHUB}/externpro/libiconv
   ${GITHUB}/externpro/libspatialite
   ${GITHUB}/externpro/nasm
   ${GITHUB}/externpro/node
