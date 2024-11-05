@@ -42,6 +42,7 @@ REPOS="
   ${ORG}/PluginStore
   ${ORG}/ProductPlanExecutor
   ${ORG}/ProductPlanScheduler
+  ${ORG}/PulseSarStore
   ${ORG}/RegionStore
   ${ORG}/RdtpSender
   ${ORG}/STV
