@@ -19,6 +19,7 @@ REPOS="
   ${ISRHUB}/internpro/internpro
   ${ISRHUB}/internpro/kakadu
   ${GITHUB}/externpro/libiconv
+  ${GITHUB}/externpro/librttopo
   ${GITHUB}/externpro/libspatialite
   ${GITHUB}/externpro/nasm
   ${GITHUB}/externpro/node
