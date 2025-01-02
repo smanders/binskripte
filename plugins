@@ -4,6 +4,7 @@ REPOS="
   ${ORG}/ChangeDetectionPlugin
   ${ORG}/CivaErrorReportTool
   ${ORG}/CodaEmulatorPlugin
+  ${ORG}/CodaPlugin
   ${ORG}/CorelliaPlugin
   ${ORG}/CountryCodesPlugin
   ${ORG}/CountryCodesServer
