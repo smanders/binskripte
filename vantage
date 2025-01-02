@@ -36,6 +36,7 @@ REPOS="
   ${ORG}/MtiViewer
   ${ORG}/NitfProductStore
   ${ORG}/NitfStore
+  ${ORG}/OpirStore
   ${ORG}/OverviewMonitor
   ${ORG}/PairingService
   ${ORG}/PlanStore
@@ -51,6 +52,7 @@ REPOS="
   ${ORG}/StatusService
   ${ORG}/StreamPlanExecutor
   ${ORG}/StreamPlanScheduler
+  ${ORG}/TagStore
   ${ORG}/TemplateMicroservice
   ${ORG}/UserService
   ${ORG}/VantageSuper
