@@ -54,6 +54,7 @@ REPOS="
   ${ORG}/StreamPlanScheduler
   ${ORG}/TagStore
   ${ORG}/TemplateMicroservice
+  ${ORG}/TemplateStandaloneSwat
   ${ORG}/UserService
   ${ORG}/VantageSuper
   ${ORG}/VIVID
