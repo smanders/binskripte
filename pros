@@ -12,6 +12,7 @@ REPOS="
   ${GITHUB}/externpro/buildpro
   ${GITHUB}/smanders/centrifybomb
   ${ISRHUB}/DDE/dde_lib
+  ${GITHUB}/externpro/duckdb
   ${GITHUB}/smanders/externpro
   ${ISRHUB}/internpro/fftw
   ${GITHUB}/externpro/geos
