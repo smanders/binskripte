@@ -3,6 +3,7 @@ REPOS="
   ${ORG}/Build
   ${ORG}/CommitCheck
   ${ORG}/DocGeneration
+  ${ORG}/ExternalServices
   ${ORG}/FortifyScan
   ${ORG}/GetKeys
   ${ORG}/IsrhubUtils
