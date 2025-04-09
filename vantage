@@ -27,7 +27,6 @@ REPOS="
   ${ORG}/ImageViewService
   ${ORG}/ImageViewer
   ${ORG}/IntegrationSwatComScanOps
-  ${ORG}/IntegrationSwatLibraries
   ${ORG}/LogStore
   ${ORG}/ManualReviewService
   ${ORG}/MissionPlanStore
@@ -47,18 +46,13 @@ REPOS="
   ${ORG}/PulseSarStore
   ${ORG}/RegionStore
   ${ORG}/RdtpSender
-  ${ORG}/STV
   ${ORG}/SensorManager
   ${ORG}/StatusService
-  ${ORG}/StreamPlanExecutor
-  ${ORG}/StreamPlanScheduler
   ${ORG}/TagStore
   ${ORG}/TemplateMicroservice
   ${ORG}/TemplateStandaloneSwat
   ${ORG}/UserService
   ${ORG}/VantageSuper
-  ${ORG}/VIVID
-  ${ORG}/VLite
   ${ORG}/vantBroker
   "
 SRCDIR=~/src/vantage
