@@ -17,6 +17,7 @@ REPOS="
   ${ISRHUB}/internpro/fftw
   ${GITHUB}/externpro/geos
   ${ISRHUB}/internpro/gsoap
+  ${GITHUB}/externpro/hdf5
   ${ISRHUB}/internpro/internpro
   ${ISRHUB}/internpro/kakadu
   ${GITHUB}/externpro/libiconv
