@@ -13,6 +13,7 @@ REPOS="
   ${ORG}/HothPlugin
   ${ORG}/ImageChangeTool
   ${ORG}/ImageQualityTool
+  ${ORG}/J2kGlade
   ${ORG}/KaminoPlugin
   ${ORG}/KraytPlugin
   ${ORG}/LinMSP
