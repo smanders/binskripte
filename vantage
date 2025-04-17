@@ -27,6 +27,8 @@ REPOS="
   ${ORG}/ImageViewService
   ${ORG}/ImageViewer
   ${ORG}/IntegrationSwatComScanOps
+  ${ORG}/IntegrationSwatDissemination
+  ${ORG}/IntegrationSwatGlobalHawkOps
   ${ORG}/LogStore
   ${ORG}/ManualReviewService
   ${ORG}/MissionPlanStore
