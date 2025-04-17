@@ -3,6 +3,7 @@ REPOS="
   ${ORG}/AirCommData
   ${ORG}/CorrelationServiceData
   ${ORG}/FileStoreData
+  ${ORG}/OpirData
   ${ORG}/PlanStoreData
   ${ORG}/PluginStoreData
   ${ORG}/ProductPlanExecutorData
