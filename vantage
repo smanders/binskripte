@@ -31,6 +31,7 @@ REPOS="
   ${ORG}/IntegrationSwatGlobalHawkOps
   ${ORG}/LogStore
   ${ORG}/ManualReviewService
+  ${ORG}/MapService
   ${ORG}/MissionPlanStore
   ${ORG}/MtiSource
   ${ORG}/MtiStore
@@ -43,12 +44,14 @@ REPOS="
   ${ORG}/PlanStore
   ${ORG}/PluginSdk
   ${ORG}/PluginStore
+  ${ORG}/ProcessManager
   ${ORG}/ProductPlanExecutor
   ${ORG}/ProductPlanScheduler
   ${ORG}/PulseSarStore
   ${ORG}/RegionStore
   ${ORG}/RdtpSender
   ${ORG}/SensorManager
+  ${ORG}/SituationalAwareness
   ${ORG}/StatusService
   ${ORG}/TagStore
   ${ORG}/TemplateMicroservice
