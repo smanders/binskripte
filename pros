@@ -25,6 +25,9 @@ REPOS="
   ${GITHUB}/externpro/libspatialite
   ${GITHUB}/externpro/nasm
   ${GITHUB}/externpro/node
+  ${GITHUB}/externpro/nodeng
+  ${GITHUB}/externpro/nodexp
+  ${GITHUB}/externpro/nvJPEG2000
   ${ISRHUB}/palam/palam
   ${GITHUB}/externpro/patch
   ${GITHUB}/externpro/spatialite-tools
