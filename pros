@@ -12,7 +12,8 @@ REPOS="
   ${GITHUB}/externpro/librttopo
   ${GITHUB}/externpro/libspatialite
   ${GITHUB}/externpro/nasm
-  ${GITHUB}/externpro/node
+  ${GITHUB}/externpro-archive/node
+  ${GITHUB}/externpro/node-addon-api
   ${GITHUB}/externpro/nodeng
   ${GITHUB}/externpro/nodexp
   ${GITHUB}/externpro/nvJPEG2000
