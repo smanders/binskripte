@@ -1,25 +1,13 @@
 ISRHUB="https://isrhub.usurf.usu.edu"
 GITHUB="https://github.com"
 REPOS="
-  ${ISRHUB}/CRTool/CRTool
-  ${ISRHUB}/CRTool/CRToolImpl
-  ${ISRHUB}/internpro/Cmdr
-  ${ISRHUB}/internpro/CriticalIO
   ${GITHUB}/smanders/Dockerfile.vim
-  ${ISRHUB}/internpro/NG_GDP
-  ${ISRHUB}/internpro/RDTP
-  ${ISRHUB}/internpro/Sdvideo
   ${GITHUB}/externpro/buildpro
   ${GITHUB}/smanders/centrifybomb
-  ${ISRHUB}/DDE/dde_lib
   ${GITHUB}/externpro/duckdb
   ${GITHUB}/smanders/externpro
-  ${ISRHUB}/internpro/fftw
   ${GITHUB}/externpro/geos
-  ${ISRHUB}/internpro/gsoap
   ${GITHUB}/externpro/HDF5
-  ${ISRHUB}/internpro/internpro
-  ${ISRHUB}/internpro/kakadu
   ${GITHUB}/externpro/libiconv
   ${GITHUB}/externpro/librttopo
   ${GITHUB}/externpro/libspatialite
@@ -28,11 +16,9 @@ REPOS="
   ${GITHUB}/externpro/nodeng
   ${GITHUB}/externpro/nodexp
   ${GITHUB}/externpro/nvJPEG2000
-  ${ISRHUB}/palam/palam
   ${GITHUB}/externpro/patch
   ${GITHUB}/externpro/spatialite-tools
   ${GITHUB}/externpro/SQLite3
-  ${ISRHUB}/webpro/webpro
   ${GITHUB}/smanders/wxTetris
   ${GITHUB}/externpro/wxx
   ${GITHUB}/externpro/zlib
