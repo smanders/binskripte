@@ -23,4 +23,4 @@ REPOS="
   ${GITHUB}/externpro/wxx
   ${GITHUB}/externpro/zlib
   "
-SRCDIR=~/Documents/src/pros
+SRCDIR=~/Code/pros
