@@ -5,6 +5,7 @@ REPOS="
   ${GITHUB}/smanders/centrifybomb
   ${GITHUB}/externpro/duckdb
   ${GITHUB}/externpro/exdlpro
+  ${GITHUB}/externpro/fmt
   ${GITHUB}/externpro/geos
   ${GITHUB}/externpro/HDF5
   ${GITHUB}/externpro/libiconv
