@@ -8,6 +8,7 @@ REPOS="
   ${GITHUB}/externpro/fmt
   ${GITHUB}/externpro/gdal
   ${GITHUB}/externpro/geos
+  ${GITHUB}/externpro/.github
   ${GITHUB}/externpro/HDF5
   ${GITHUB}/externpro/libiconv
   ${GITHUB}/externpro/librttopo
