@@ -6,6 +6,7 @@ REPOS="
   ${GITHUB}/externpro/duckdb
   ${GITHUB}/externpro/exdlpro
   ${GITHUB}/externpro/fmt
+  ${GITHUB}/externpro/gdal
   ${GITHUB}/externpro/geos
   ${GITHUB}/externpro/HDF5
   ${GITHUB}/externpro/libiconv
