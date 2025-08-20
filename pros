@@ -9,6 +9,7 @@ REPOS="
   ${GITHUB}/externpro/gdal
   ${GITHUB}/externpro/geos
   ${GITHUB}/externpro/.github
+  ${GITHUB}/externpro/googletest
   ${GITHUB}/externpro/HDF5
   ${GITHUB}/externpro/libiconv
   ${GITHUB}/externpro/librttopo
@@ -21,6 +22,7 @@ REPOS="
   ${GITHUB}/externpro/nvJPEG2000
   ${GITHUB}/externpro/patch
   ${GITHUB}/externpro/spatialite-tools
+  ${GITHUB}/externpro/spdlog
   ${GITHUB}/externpro/SQLite3
   ${GITHUB}/smanders/wxTetris
   ${GITHUB}/externpro/wxx
