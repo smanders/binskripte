@@ -1,6 +1,7 @@
 GITHUB="https://github.com"
 REPOS="
   ${GITHUB}/smanders/Dockerfile.vim
+  ${GITHUB}/externpro/argon2
   ${GITHUB}/externpro/buildpro
   ${GITHUB}/smanders/centrifybomb
   ${GITHUB}/externpro/duckdb
