@@ -3,6 +3,7 @@ REPOS="
   ${GITHUB}/smanders/Dockerfile.vim
   ${GITHUB}/externpro/argon2
   ${GITHUB}/externpro/buildpro
+  ${GITHUB}/externpro/bzip2
   ${GITHUB}/smanders/centrifybomb
   ${GITHUB}/externpro/duckdb
   ${GITHUB}/externpro/exdlpro
