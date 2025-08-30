@@ -16,6 +16,7 @@ REPOS="
   ${GITHUB}/externpro/librttopo
   ${GITHUB}/externpro/libspatialite
   ${GITHUB}/externpro/nasm
+  ${GITHUB}/externpro/nlohmann_json
   ${GITHUB}/externpro-archive/node
   ${GITHUB}/externpro/node-addon-api
   ${GITHUB}/externpro/nodeng
