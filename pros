@@ -1,6 +1,7 @@
 GITHUB="https://github.com"
 REPOS="
   ${GITHUB}/smanders/Dockerfile.vim
+  ${GITHUB}/externpro/apr
   ${GITHUB}/externpro/argon2
   ${GITHUB}/externpro/buildpro
   ${GITHUB}/externpro/bzip2
