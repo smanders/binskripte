@@ -19,6 +19,7 @@ REPOS="
   ${GITHUB}/externpro/hdf5
   ${GITHUB}/externpro/libiconv
   ${GITHUB}/externpro/librttopo
+  ${GITHUB}/externpro/libsodium
   ${GITHUB}/externpro/libspatialite
   ${GITHUB}/externpro/nasm
   ${GITHUB}/externpro/nlohmann_json
