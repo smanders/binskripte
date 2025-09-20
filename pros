@@ -16,7 +16,7 @@ REPOS="
   ${GITHUB}/externpro/geos
   ${GITHUB}/externpro/.github
   ${GITHUB}/externpro/googletest
-  ${GITHUB}/externpro/HDF5
+  ${GITHUB}/externpro/hdf5
   ${GITHUB}/externpro/libiconv
   ${GITHUB}/externpro/librttopo
   ${GITHUB}/externpro/libspatialite
