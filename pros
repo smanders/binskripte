@@ -3,6 +3,8 @@ REPOS="
   ${GITHUB}/smanders/Dockerfile.vim
   ${GITHUB}/externpro/apr
   ${GITHUB}/externpro/argon2
+  ${GITHUB}/externpro/azmq
+  ${GITHUB}/externpro/boost
   ${GITHUB}/externpro/buildpro
   ${GITHUB}/externpro/bzip2
   ${GITHUB}/smanders/centrifybomb
@@ -10,6 +12,7 @@ REPOS="
   ${GITHUB}/externpro/duckdb
   ${GITHUB}/externpro/eigen
   ${GITHUB}/externpro/exdlpro
+  ${GITHUB}/externpro/fecpp
   ${GITHUB}/externpro/flatbuffers
   ${GITHUB}/externpro/fmt
   ${GITHUB}/externpro/gdal
@@ -33,6 +36,7 @@ REPOS="
   ${GITHUB}/externpro/spatialite-tools
   ${GITHUB}/externpro/spdlog
   ${GITHUB}/externpro/SQLite3
+  ${GITHUB}/externpro/wxInclude
   ${GITHUB}/smanders/wxTetris
   ${GITHUB}/externpro/wxx
   ${GITHUB}/externpro/zlib
