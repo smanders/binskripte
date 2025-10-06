@@ -21,6 +21,7 @@ REPOS="
   ${GITHUB}/externpro/.github
   ${GITHUB}/externpro/googletest
   ${GITHUB}/externpro/hdf5
+  ${GITHUB}/externpro/jxrlib
   ${GITHUB}/externpro/libiconv
   ${GITHUB}/externpro/librttopo
   ${GITHUB}/externpro/libsodium
