@@ -36,6 +36,7 @@ REPOS="
   ${GITHUB}/externpro/nodexp
   ${GITHUB}/externpro/nvJPEG2000
   ${GITHUB}/externpro/patch
+  ${GITHUB}/externpro/rapidjson
   ${GITHUB}/externpro/spatialite-tools
   ${GITHUB}/externpro/spdlog
   ${GITHUB}/externpro/SQLite3
