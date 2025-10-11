@@ -18,6 +18,7 @@ REPOS="
   ${GITHUB}/externpro/fmt
   ${GITHUB}/externpro/gdal
   ${GITHUB}/externpro/geos
+  ${GITHUB}/externpro/geotranz
   ${GITHUB}/externpro/.github
   ${GITHUB}/externpro/googletest
   ${GITHUB}/externpro/hdf5
