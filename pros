@@ -45,6 +45,7 @@ REPOS="
   ${GITHUB}/externpro/wirehair
   ${GITHUB}/externpro/wxInclude
   ${GITHUB}/smanders/wxTetris
+  ${GITHUB}/externpro/wxWidgets
   ${GITHUB}/externpro/wxx
   ${GITHUB}/externpro/zlib
   "
